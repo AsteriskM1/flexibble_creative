@@ -15,6 +15,9 @@
 # production
 /build
 
+/grafbase/.env
+.env
+
 # misc
 .DS_Store
 *.pem
