@@ -16,7 +16,7 @@ const FooterColumn = ({ title, links}: ColumnProps) => (
           href="/"
           key={link}
           className="hover:underline hover:underline-offset-2">
-          {link}
+            {link}
         </Link>
       ))}
     </ul>
